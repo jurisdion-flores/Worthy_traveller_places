@@ -5,7 +5,7 @@
 :root {
     --brand-color: #6ba0af;
     --dark-ink: #ffffff;
-    --muted-grey: #bcd9ff;
+    --muted-blue: #bcd9ff;
     --light-background: #2b2b2b;
     --card-background: #292929;
 }
@@ -89,7 +89,7 @@ nav a {
 }
 
 nav a:hover {
-    color: var(--muted-grey);
+    color: var(--muted-blue);
 }
 
 main {
@@ -129,7 +129,7 @@ footer p {
 .place-card {
     font-family: Roboto, Arial, sans-serif;
     background-color: var(--card-background);
-    border: 1px solid var(--muted-grey);
+    border: 1px solid var(--muted-blue);
     border-radius: 10px;
     padding: 16px;
     margin: 0 auto 20px;
@@ -156,7 +156,7 @@ footer p {
 }
 
 .place-card a:hover {
-    color: var(--muted-grey);
+    color: var(--muted-blue);
 }
 
 
@@ -179,7 +179,7 @@ table {
 th,
 td {
     padding: 10px 15px;
-    border: 1px solid var(--muted-grey);
+    border: 1px solid var(--muted-blue);
     text-align: center;
 }
 
@@ -233,7 +233,7 @@ select,
 textarea {
     font-family: Arial, sans-serif;
     padding: 8px;
-    border: 1px solid var(--muted-grey);
+    border: 1px solid var(--muted-blue);
 }
 
 textarea {
